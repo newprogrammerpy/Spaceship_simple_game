@@ -1,6 +1,11 @@
 # Spaceship_simple_game
-**Language: Vietnamese**
+**Vietnamese**\
+Purpose:
 ~~~
 for learning code
 for me
+~~~
+Code language:
+~~~
+python::3
 ~~~
