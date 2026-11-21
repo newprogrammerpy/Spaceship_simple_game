@@ -1,1 +1,0 @@
-I deleted docs, if you want, go to pygame.org
