@@ -3,3 +3,8 @@
 #####################################################
 
 
+import sys
+try:
+    import pip
+except ModuleNotFoundError:
+    with open(
