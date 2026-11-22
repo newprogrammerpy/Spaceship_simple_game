@@ -1,5 +1,5 @@
 # Spaceship_simple_game
-**Vietnamese**\
+**Alpha Version**\
 Purpose:
 ~~~
 for learning code
@@ -7,5 +7,6 @@ for me
 ~~~
 Code language:
 ~~~
-python::3
+python 3
 ~~~
+<<
